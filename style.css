@@ -13,9 +13,8 @@ h1{color:grey;font-family:verdana}
 label
 {
     cursor: pointer;
-    display: inline-block;
     padding: 3px 6px;    
-    width: 350px;    
+    width: 300px;    
 }
 
 
