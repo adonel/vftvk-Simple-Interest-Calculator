@@ -4,10 +4,21 @@ h1{color:grey;font-family:verdana}
 .maindiv {
     background-color:white;
     color:black;
-    width:300px;
+    width:600px;
     padding:20px;
     border-radius:25px;
     align:center;    
 }
 
-label {width: 150px;}
+label{
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 200px;
+    text-align: left;
+}
+
+input {
+  display: inline-block;
+  float: left;
+}
