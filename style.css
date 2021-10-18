@@ -11,6 +11,12 @@ h1{color:grey;font-family:verdana}
 }
 
 label{    
+    display: inline-block;
     width: 200px;
     text-align: left;
+}
+
+input{
+    display:inline-block;
+    vertical-align:middle;
 }
