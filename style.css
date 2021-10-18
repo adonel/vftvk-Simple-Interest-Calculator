@@ -7,12 +7,17 @@ h1{color:grey;font-family:verdana}
     width:500px;
     padding:20px;
     border-radius:25px;
-    align:center;    
+    align:center;
+}
+
+form {
+    display: inline-block;
+    align:center;
 }
 
 label{    
     display: inline-block;
-    width: 200px;
+    width: 100px;
     text-align: left;
 }
 
