@@ -5,7 +5,7 @@ function compute()
     //make sure that the principal amout is positive
     if (principal <= 0)
     {
-        alert("Enter a positive amount");
+        alert("Enter a positive number");
         setTimeout(function(){document.getElementById('principal').focus()}, 0);        
         return;
     }
